@@ -1,4 +1,4 @@
-- 👋 Hola, soy @LizRubiAngelesMatinez
+- 👋 Hola, soy Lizbeth Rubi Angeles Martinez
 - 👀 Estoy interesada en crear soluciones a través de la programación
 - 🌱 Actualmente estoy aprendiendo a usar la plataforma Android studio y lenguaje kotlin
 - 💞️ Estoy buscando colaborar en desarrollos de programación
